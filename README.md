@@ -77,7 +77,6 @@ Melalui praktikum ini, saya dapat memahami cara menghubungkan PHP dengan databas
 <img width="1917" height="1013" alt="Cuplikan layar 2026-11-22 174511" src="https://github.com/user-attachments/assets/4ec4ca29-0617-4fec-8156-def45a6f03cd" />
 <img width="1917" height="1010" alt="Cuplikan layar 2026-11-22 174748" src="https://github.com/user-attachments/assets/6b9e960c-8cb1-40d3-8d4a-fd3218414bf9" />
 <img width="922" height="173" alt="Cuplikan layar 2026-11-22 181159" src="https://github.com/user-attachments/assets/4fcb6651-0c59-4039-8a7c-00378cb1d58c" />
-<img width="1917" height="1015" alt="Cuplikan layar 2026-11-22 180723" src="https://github.com/user-attachments/assets/0f769fb1-82ff-4c46-be7d-79a01adcdee2" />
 <img width="1917" height="1008" alt="Cuplikan layar 2026-11-22 180834" src="https://github.com/user-attachments/assets/1d518b84-3155-4721-b311-8b0347ca67f8" />
 <img width="317" height="548" alt="Cuplikan layar 2026-11-22 181218" src="https://github.com/user-attachments/assets/cd8bc281-6e8e-40eb-9ab7-7b98b4b3d8c1" />
 <img width="1917" height="1018" alt="Cuplikan layar 2026-11-22 181247" src="https://github.com/user-attachments/assets/ba67dec8-c546-450f-94cb-f31f8703ad35" />
